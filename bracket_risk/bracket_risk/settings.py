@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bracket_app',
-    'bracket_api'
 ]
 
 MIDDLEWARE = [
